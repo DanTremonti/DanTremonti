@@ -18,7 +18,7 @@
 -->
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhanvanth-p/)
-
+<a href="https://www.strava.com/athletes/106066837"><img src="badge.svg"></a>
 
 
 I am Dhanvanth, graduate from Sri Sairam Engineering College. I'm currently working at ZOHO as a Machine Learning Engineer in the ZLabs team.
